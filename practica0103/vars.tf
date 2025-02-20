@@ -21,3 +21,9 @@ variable "region_name" {
   type = string
   default = "eu-west-3"
 }
+
+
+variable "patata" {
+  type = string
+  default = "value"
+}
