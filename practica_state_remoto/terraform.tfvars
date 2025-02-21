@@ -1,0 +1,6 @@
+region="eu-west-3"
+project_name="fsanzbae05"
+client_name="cdd"
+acl_value="private"
+ssh_key_path="fsanzbae_curso.pub"
+vpc_id = "vpc-c2df3aaa"
